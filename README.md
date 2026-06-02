@@ -50,37 +50,29 @@ He organizado mis herramientas por áreas para que sea más fácil de leer:
 
 ## 📊 Estadísticas de GitHub
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnthonyPilatasig&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=true" alt="Estadísticas de Anthony" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=AnthonyPilatasig&amp;theme=dark&amp;hide_border=false" alt="Racha de Commits" />
+</p>
 
-[![Estadísticas de Anthony](https://github-readme-stats.vercel.app/api?username=AnthonyPilatasig&theme=dark&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/AnthonyPilatasig)
-[![Racha de Commits](https://nirzak-streak-stats.vercel.app/?user=AnthonyPilatasig&theme=dark&hide_border=false)](https://github.com/AnthonyPilatasig)
-
-</div>
-<br>
-<div align="center">
-
-[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyPilatasig&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/AnthonyPilatasig)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyPilatasig&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=true&amp;layout=compact" alt="Lenguajes más usados" />
+</p>
 
 <details>
   <summary><b>🏆 Ver Trofeos y Top Repositorio</b></summary>
   <br>
-  <div align="center">
-
-[![Trofeos](https://github-profile-trophy.vercel.app/?username=AnthonyPilatasig&theme=radical&no-frame=true&no-bg=false&margin-w=4)](https://github.com/AnthonyPilatasig)
-
-<br><br>
-
-[![Top Repositorio](https://github-contributor-stats.vercel.app/api?username=AnthonyPilatasig&limit=5&theme=dark&combine_all_yearly_contributions=true)](https://github.com/AnthonyPilatasig)
-
-  </div>
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=AnthonyPilatasig&amp;theme=radical&amp;no-frame=true&amp;no-bg=false&amp;margin-w=4" alt="Trofeos" />
+    <br><br>
+    <img src="https://github-contributor-stats.vercel.app/api?username=AnthonyPilatasig&amp;limit=5&amp;theme=dark&amp;combine_all_yearly_contributions=true" alt="Top Repositorio" />
+  </p>
 </details>
 
 <br>
 
-<div align="center">
+<p align="center">
   <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=AnthonyPilatasig&icon=0&color=0" alt="Vistas al Perfil">
+    <img src="https://visitcount.itsvg.in/api?id=AnthonyPilatasig&amp;icon=0&amp;color=0" alt="Vistas al Perfil">
   </a>
-</div>
+</p>
