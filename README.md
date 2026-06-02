@@ -50,29 +50,17 @@ He organizado mis herramientas por áreas para que sea más fácil de leer:
 
 ## 📊 Estadísticas de GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnthonyPilatasig&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=true" alt="Estadísticas de Anthony" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=AnthonyPilatasig&amp;theme=dark&amp;hide_border=false" alt="Racha de Commits" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyPilatasig&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=true&amp;layout=compact" alt="Lenguajes más usados" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=AnthonyPilatasig&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AnthonyPilatasig&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyPilatasig&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <details>
   <summary><b>🏆 Ver Trofeos y Top Repositorio</b></summary>
-  <br>
-  <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=AnthonyPilatasig&amp;theme=radical&amp;no-frame=true&amp;no-bg=false&amp;margin-w=4" alt="Trofeos" />
-    <br><br>
-    <img src="https://github-contributor-stats.vercel.app/api?username=AnthonyPilatasig&amp;limit=5&amp;theme=dark&amp;combine_all_yearly_contributions=true" alt="Top Repositorio" />
-  </p>
+  
+  ![](https://github-profile-trophy.vercel.app/?username=AnthonyPilatasig&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
+  ![](https://github-contributor-stats.vercel.app/api?username=AnthonyPilatasig&limit=5&theme=dark&combine_all_yearly_contributions=true)
 </details>
 
-<br>
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=AnthonyPilatasig&amp;icon=0&amp;color=0" alt="Vistas al Perfil">
-  </a>
-</p>
+---
+[![](https://visitcount.itsvg.in/api?id=AnthonyPilatasig&icon=0&color=0)](https://visitcount.itsvg.in)
