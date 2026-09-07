@@ -141,24 +141,34 @@ Desarrollador de software con **más de 2 años de experiencia** construyendo so
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub Analytics & Métricas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnthonyPilatasig&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyPilatasig&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Top Languages" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=AnthonyPilatasig&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Streak" width="98%" />
 </div>
 
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=AnthonyPilatasig&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
-</div>
+<br/>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnthonyPilatasig/AnthonyPilatasig/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnthonyPilatasig/AnthonyPilatasig/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AnthonyPilatasig/AnthonyPilatasig/output/github-contribution-grid-snake-dark.svg" width="97%">
-  </picture>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnthonyPilatasig&theme=tokyonight" alt="Detalles de Perfil" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnthonyPilatasig&theme=tokyonight" alt="Lenguajes con más Commits" width="48%" />
 </div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnthonyPilatasig&theme=tokyo-night&hide_border=true&area=true" alt="Gráfico de Actividad GitHub" width="98%" />
+</div>
+
+<br/>
+
+<details>
+  <summary align="center"><b>🏆 Ver Trofeos de Logros en GitHub</b></summary>
+  <br/>
+  <div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=AnthonyPilatasig&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  </div>
+</details>
 
 ---
 
