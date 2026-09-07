@@ -10,7 +10,7 @@
   <p align="center">
     <a href="https://linkedin.com/in/anthony-pilatasig"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="https://anthonypilatasig.github.io/anthony-portfolio/"><img src="https://img.shields.io/badge/Live_Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Portfolio" /></a>
-    <a href="mailto:anthony.pilatasig@istpet.edu.ec"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="mailto:antpila3848@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://twitch.tv/AnthonWorld"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=Twitch&logoColor=white" alt="Twitch" /></a>
     <a href="https://youtube.com/@anthonworld4858"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube" /></a>
   </p>
