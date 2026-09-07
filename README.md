@@ -1,66 +1,167 @@
 <div align="center">
-  <h1>Hola, soy Anthony Pilatasig 👋</h1>
-  <h3>Ingeniero de Software en Formación | Desarrollador Full Stack</h3>
-  
-  <p>
-    Formación dual: Tecnólogo Superior en Desarrollo de Software y actualmente cursando Ingeniería de Software en la <b>Universidad Politécnica Salesiana</b> (Quito, Ecuador).
+  <h1 align="center">Anthony David Pilatasig Macas 👋</h1>
+  <p align="center">
+    <b>Software Engineer | Backend & Distributed Systems Specialist | Full Stack Developer</b>
   </p>
-  
-  <p>
-    <a href="https://linkedin.com/in/anthony-pilatasig"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="https://twitch.tv/AnthonWorld"><img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white" alt="Twitch"></a>
-    <a href="https://youtube.com/@anthonworld4858"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"></a>
+  <p align="center">
+    🎓 <b>Tecnólogo Superior en Desarrollo de Software</b> (ISTPET)<br/>
+    🎓 <b>Ingeniería de Software</b> (Universidad Politécnica Salesiana - Quito, Ecuador)
+  </p>
+  <p align="center">
+    <a href="https://linkedin.com/in/anthony-pilatasig"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://github.com/AnthonyPilatasig/anthony-portfolio"><img src="https://img.shields.io/badge/Portfolio_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" /></a>
+    <a href="mailto:anthony.pilatasig@istpet.edu.ec"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://twitch.tv/AnthonWorld"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=Twitch&logoColor=white" alt="Twitch" /></a>
+    <a href="https://youtube.com/@anthonworld4858"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube" /></a>
   </p>
 </div>
 
 ---
 
-## 💫 Sobre Mí
+### 👨‍💻 Sobre Mí
 
-Con **2 años de experiencia** en desarrollo e implementación de proyectos profesionales, me apasiona resolver problemas complejos a través de código limpio y arquitecturas escalables. Actualmente formo parte del equipo de desarrollo en [ItspetDev](https://github.com/ItspetDev).
+Desarrollador de software con **más de 2 años de experiencia** construyendo soluciones empresariales, arquitecturas distribuidas y aplicaciones escalables. Especializado en **Clean Architecture, CQRS, DDD y ecosistemas .NET / React / Java**, enfocado en la mantenibilidad, principios SOLID y optimización de rendimiento.
 
-🚀 **Competencias clave:**
-- 💻 Desarrollo de software y arquitectura de sistemas.
-- ⚙️ Análisis y optimización de procesos tecnológicos.
-- ☁️ Implementación de soluciones eficientes.
-- 🔍 Análisis de fundamentos de tecnologías emergentes.
-
-🌱 Actualmente enfocado en mejorar mis habilidades en **Arquitecturas Cloud y Clean Architecture**.
-📫 ¿Quieres contactarme? Escríbeme por [LinkedIn](https://linkedin.com/in/anthony-pilatasig) para oportunidades profesionales y proyectos desafiantes.
+- 🏛️ **Arquitectura & Backend**: Microservicios desacoplados, Event Sourcing, APIs RESTful con .NET 8/9 y modelado relacional avanzado.
+- ⚡ **Frontend Moderno & Desktop**: SPAs con React 19 / TypeScript y aplicaciones multiplataforma con Avalonia UI y WebAssembly.
+- ⚙️ **Optimización & Complejidad**: Análisis algorítmico (Programación Dinámica $\mathcal{O}(n \cdot W)$), optimización de memoria WASM y sandboxing.
+- 🤝 **Colaboración Institucional**: Contribuidor activo en el sistema core de titulación institucional ([`titulacion-istpet`](https://github.com/JosephBano/titulacion-istpet)).
 
 ---
 
-## 💻 Stack Tecnológico
+### 🛠️ Stack Tecnológico Principal
 
-He organizado mis herramientas por áreas para que sea más fácil de leer:
-
-### 🌐 Frontend & Mobile
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
-### ⚙️ Backend
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-
-### 🗄️ Bases de Datos & ORMs
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-
-### 🛠️ Herramientas & Cloud
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+<table>
+  <tr>
+    <td width="25%" valign="top"><b>Backend & Core</b></td>
+    <td width="75%">
+      <img src="https://img.shields.io/badge/.NET_8%2F9-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+      <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=.net&logoColor=white" />
+      <img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+      <img src="https://img.shields.io/badge/MediatR_(CQRS)-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top"><b>Frontend & Desktop</b></td>
+    <td width="75%">
+      <img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+      <img src="https://img.shields.io/badge/Avalonia_UI-8A2BE2?style=flat-square&logo=avalonia&logoColor=white" />
+      <img src="https://img.shields.io/badge/TailwindCSS_v4-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+      <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top"><b>Bases de Datos & ORMs</b></td>
+    <td width="75%">
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" />
+      <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+      <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top"><b>DevOps & Herramientas</b></td>
+    <td width="75%">
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/Swagger%2FOpenAPI-85EA2D?style=flat-square&logo=swagger&logoColor=black" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📊 Estadísticas de GitHub
+### 🚀 Proyectos Destacados
 
-![](https://github-readme-stats.vercel.app/api?username=AnthonyPilatasig&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AnthonyPilatasig&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyPilatasig&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-<details>
-  <summary><b>🏆 Ver Trofeos y Top Repositorio</b></summary>
-  
-  ![](https://github-profile-trophy.vercel.app/?username=AnthonyPilatasig&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-  ![](https://github-contributor-stats.vercel.app/api?username=AnthonyPilatasig&limit=5&theme=dark&combine_all_yearly_contributions=true)
-</details>
+<!-- FEATURED_PROJECTS:START -->
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/AnthonyPilatasig/net8-education-microservices">🚀 Educational Microservices Platform</a></h3>
+      <p>Ecosistema distribuido de microservicios en <b>.NET 8</b> (Analytics, Adaptive Engine, Assessment, Competency y Content) con <b>Clean Architecture, CQRS, Event Sourcing y DDD</b>.</p>
+      <p>`.NET 8` `C#` `Microservices` `CQRS` `Docker` `Kubernetes`</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/AnthonyPilatasig/DebtManager">🚀 Debt Manager & Financial Advisor</a></h3>
+      <p>Asesor financiero personal multiplataforma desarrollado con <b>.NET 9 + Avalonia UI + PostgreSQL</b> para análisis de flujo de caja y factibilidad financiera.</p>
+      <p>`.NET 9` `C#` `Avalonia UI` `PostgreSQL` `Clean Arch`</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/AnthonyPilatasig/anthony-portfolio">🚀 Interactive Senior Portfolio & WASM Engine</a></h3>
+      <p>Portafolio interactivo moderno con <b>React 19, TypeScript y Vite</b> integrado con motor WebAssembly aislado y optimización de memoria a 4GB.</p>
+      <p>`React 19` `TypeScript` `TailwindCSS` `WebAssembly` `Vite`</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/AnthonyPilatasig/Sistema_Optimazacion_Inventario_Algoritmos-y-Estructura-de-Datos-">🚀 Inventory Optimization (Knapsack Problem)</a></h3>
+      <p>Sistema de optimización de inventarios con <b>Programación Dinámica en Java</b> (Recursivo, Memoización Top-Down y Bottom-Up) y análisis de complejidad formal para la UPS.</p>
+      <p>`Java` `Algoritmos` `Dynamic Programming` `Benchmarking`</p>
+    </td>
+  </tr>
+</table>
+<!-- FEATURED_PROJECTS:END -->
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AnthonyPilatasig&icon=0&color=0)](https://visitcount.itsvg.in)
+
+### 📦 Últimos Repositorios & Proyectos Actualizados
+
+<!-- RECENT_REPOS:START -->
+| Repositorio | Descripción | Stack | Stars | Actualizado |
+| :--- | :--- | :---: | :---: | :--- |
+| [**anthony-portfolio**](https://github.com/AnthonyPilatasig/anthony-portfolio) | — | <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" height="20"/> | ⭐ 0 | Hace 4 días |
+| [**DebtManager**](https://github.com/AnthonyPilatasig/DebtManager) | — | <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" height="20"/> | ⭐ 0 | Hace 1 mes |
+| [**RPG_Journey**](https://github.com/AnthonyPilatasig/RPG_Journey) | — | <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" height="20"/> | ⭐ 0 | Hace 2 meses |
+| [**net8-education-microservices**](https://github.com/AnthonyPilatasig/net8-education-microservices) | Arquitectura de microservicios con .NET 8 para educación. Patrones avanzados: CQRS... | <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" height="20"/> | ⭐ 0 | Hace 3 meses |
+| [**Sistema_Optimazacion_Inventario_Algoritmos-y-Estructura-de-Datos-**](https://github.com/AnthonyPilatasig/Sistema_Optimazacion_Inventario_Algoritmos-y-Estructura-de-Datos-) | Sistema de optimización de inventarios mediante programación dinámica. Implementa ... | <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" height="20"/> | ⭐ 0 | Hace 3 meses |
+| [**fundamentos_programacion_ISTPET_25-26**](https://github.com/AnthonyPilatasig/fundamentos_programacion_ISTPET_25-26) | — | <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" height="20"/> | ⭐ 0 | Hace 9 meses |
+<!-- RECENT_REPOS:END -->
+
+---
+
+### ⚡ Actividad Reciente
+
+<!-- RECENT_ACTIVITY:START -->
+- 🔀 PR #13 (merged) en [`titulacion-istpet`](https://github.com/JosephBano/titulacion-istpet): [Pull Request en titulacion-istpet](https://github.com/JosephBano/titulacion-istpet)
+- 🔀 PR #12 (closed) en [`titulacion-istpet`](https://github.com/JosephBano/titulacion-istpet): [Pull Request en titulacion-istpet](https://github.com/JosephBano/titulacion-istpet)
+- 🔀 PR #11 (merged) en [`titulacion-istpet`](https://github.com/JosephBano/titulacion-istpet): [Pull Request en titulacion-istpet](https://github.com/JosephBano/titulacion-istpet)
+- 🔀 PR #10 (opened) en [`titulacion-istpet`](https://github.com/JosephBano/titulacion-istpet): [Pull Request en titulacion-istpet](https://github.com/JosephBano/titulacion-istpet)
+- 🔀 PR #9 (opened) en [`titulacion-istpet`](https://github.com/JosephBano/titulacion-istpet): [Pull Request en titulacion-istpet](https://github.com/JosephBano/titulacion-istpet)
+<!-- RECENT_ACTIVITY:END -->
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnthonyPilatasig&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyPilatasig&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Top Languages" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=AnthonyPilatasig&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnthonyPilatasig/AnthonyPilatasig/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnthonyPilatasig/AnthonyPilatasig/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AnthonyPilatasig/AnthonyPilatasig/output/github-contribution-grid-snake-dark.svg" width="97%">
+  </picture>
+</div>
+
+---
+
+<div align="center">
+  <sub>🚀 Automatizado con GitHub Actions y Python • Diseñado con enfoque en Clean Architecture y Alto Rendimiento • © 2026 Anthony Pilatasig</sub>
+</div>
