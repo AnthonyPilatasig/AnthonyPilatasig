@@ -9,7 +9,7 @@
   </p>
   <p align="center">
     <a href="https://linkedin.com/in/anthony-pilatasig"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://github.com/AnthonyPilatasig/anthony-portfolio"><img src="https://img.shields.io/badge/Portfolio_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://anthonypilatasig.github.io/anthony-portfolio/"><img src="https://img.shields.io/badge/Live_Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Portfolio" /></a>
     <a href="mailto:anthony.pilatasig@istpet.edu.ec"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://twitch.tv/AnthonWorld"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=Twitch&logoColor=white" alt="Twitch" /></a>
     <a href="https://youtube.com/@anthonworld4858"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube" /></a>
@@ -87,26 +87,30 @@ Desarrollador de software con **más de 2 años de experiencia** construyendo so
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3><a href="https://anthonypilatasig.github.io/anthony-portfolio/">🚀 Interactive Senior Portfolio & WASM Engine</a></h3>
+      <p>Portafolio interactivo moderno con <b>React 19, TypeScript y Vite</b> integrado con motor WebAssembly aislado y optimización de memoria a 4GB.</p>
+      <p>`React 19` `TypeScript` `TailwindCSS` `WebAssembly` `Live Demo`</p>
+      <p><a href="https://anthonypilatasig.github.io/anthony-portfolio/">🌐 <b>Ver Deploy / Demo</b></a> &nbsp;|&nbsp; <a href="https://github.com/AnthonyPilatasig/anthony-portfolio">📁 <b>Código</b></a></p>
+    </td>
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/AnthonyPilatasig/net8-education-microservices">🚀 Educational Microservices Platform</a></h3>
       <p>Ecosistema distribuido de microservicios en <b>.NET 8</b> (Analytics, Adaptive Engine, Assessment, Competency y Content) con <b>Clean Architecture, CQRS, Event Sourcing y DDD</b>.</p>
       <p>`.NET 8` `C#` `Microservices` `CQRS` `Docker` `Kubernetes`</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/AnthonyPilatasig/DebtManager">🚀 Debt Manager & Financial Advisor</a></h3>
-      <p>Asesor financiero personal multiplataforma desarrollado con <b>.NET 9 + Avalonia UI + PostgreSQL</b> para análisis de flujo de caja y factibilidad financiera.</p>
-      <p>`.NET 9` `C#` `Avalonia UI` `PostgreSQL` `Clean Arch`</p>
+      <p><a href="https://github.com/AnthonyPilatasig/net8-education-microservices">📁 <b>Ver Repositorio</b></a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/AnthonyPilatasig/anthony-portfolio">🚀 Interactive Senior Portfolio & WASM Engine</a></h3>
-      <p>Portafolio interactivo moderno con <b>React 19, TypeScript y Vite</b> integrado con motor WebAssembly aislado y optimización de memoria a 4GB.</p>
-      <p>`React 19` `TypeScript` `TailwindCSS` `WebAssembly` `Vite`</p>
+      <h3><a href="https://github.com/AnthonyPilatasig/DebtManager">🚀 Debt Manager & Financial Advisor</a></h3>
+      <p>Asesor financiero personal multiplataforma desarrollado con <b>.NET 9 + Avalonia UI + PostgreSQL</b> para análisis de flujo de caja y factibilidad financiera.</p>
+      <p>`.NET 9` `C#` `Avalonia UI` `PostgreSQL` `Clean Arch`</p>
+      <p><a href="https://github.com/AnthonyPilatasig/DebtManager">📁 <b>Ver Repositorio</b></a></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/AnthonyPilatasig/Sistema_Optimazacion_Inventario_Algoritmos-y-Estructura-de-Datos-">🚀 Inventory Optimization (Knapsack Problem)</a></h3>
       <p>Sistema de optimización de inventarios con <b>Programación Dinámica en Java</b> (Recursivo, Memoización Top-Down y Bottom-Up) y análisis de complejidad formal para la UPS.</p>
       <p>`Java` `Algoritmos` `Dynamic Programming` `Benchmarking`</p>
+      <p><a href="https://github.com/AnthonyPilatasig/Sistema_Optimazacion_Inventario_Algoritmos-y-Estructura-de-Datos-">📁 <b>Ver Repositorio</b></a></p>
     </td>
   </tr>
 </table>

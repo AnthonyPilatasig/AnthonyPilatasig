@@ -33,6 +33,12 @@ LANG_BADGES = {
 
 # Curated metadata for key projects
 PROJECT_METADATA = {
+    "anthony-portfolio": {
+        "title": "Interactive Senior Portfolio & WASM Engine",
+        "live_url": "https://anthonypilatasig.github.io/anthony-portfolio/",
+        "description": "Portafolio interactivo moderno con <b>React 19, TypeScript y Vite</b> integrado con motor WebAssembly aislado y optimización de memoria a 4GB.",
+        "tags": ["React 19", "TypeScript", "TailwindCSS", "WebAssembly", "Live Demo"],
+    },
     "net8-education-microservices": {
         "title": "Educational Microservices Platform",
         "description": "Ecosistema distribuido de microservicios en <b>.NET 8</b> (Analytics, Adaptive Engine, Assessment, Competency y Content) con <b>Clean Architecture, CQRS, Event Sourcing y DDD</b>.",
@@ -42,11 +48,6 @@ PROJECT_METADATA = {
         "title": "Debt Manager & Financial Advisor",
         "description": "Asesor financiero personal multiplataforma desarrollado con <b>.NET 9 + Avalonia UI + PostgreSQL</b> para análisis de flujo de caja y factibilidad financiera.",
         "tags": [".NET 9", "C#", "Avalonia UI", "PostgreSQL", "Clean Arch"],
-    },
-    "anthony-portfolio": {
-        "title": "Interactive Senior Portfolio & WASM Engine",
-        "description": "Portafolio interactivo moderno con <b>React 19, TypeScript y Vite</b> integrado con motor WebAssembly aislado y optimización de memoria a 4GB.",
-        "tags": ["React 19", "TypeScript", "TailwindCSS", "WebAssembly", "Vite"],
     },
     "Sistema_Optimazacion_Inventario_Algoritmos-y-Estructura-de-Datos-": {
         "title": "Inventory Optimization (Knapsack Problem)",
@@ -131,7 +132,10 @@ def build_featured_projects_section(repos):
         meta = PROJECT_METADATA.get(name, {})
         
         title = meta.get("title") or (repo["name"] if repo else name)
-        url = repo["html_url"] if repo else f"https://github.com/{USERNAME}/{name}"
+        repo_url = repo["html_url"] if repo else f"https://github.com/{USERNAME}/{name}"
+        live_url = meta.get("live_url") or (repo.get("homepage") if repo and repo.get("homepage") else None)
+        
+        target_url = live_url if live_url else repo_url
         
         desc = meta.get("description")
         if not desc and repo and repo.get("description"):
@@ -152,10 +156,19 @@ def build_featured_projects_section(repos):
         stars = repo.get("stargazers_count", 0) if repo else 0
         stars_badge = f" ★ {stars}" if stars > 0 else ""
         
+        links = []
+        if live_url:
+            links.append(f'<a href="{live_url}">🌐 <b>Ver Deploy / Demo</b></a>')
+            links.append(f'<a href="{repo_url}">📁 <b>Código</b></a>')
+        else:
+            links.append(f'<a href="{repo_url}">📁 <b>Ver Repositorio</b></a>')
+        links_html = " &nbsp;|&nbsp; ".join(links)
+        
         cards.append(f"""    <td width="50%" valign="top">
-      <h3><a href="{url}">🚀 {title}</a>{stars_badge}</h3>
+      <h3><a href="{target_url}">🚀 {title}</a>{stars_badge}</h3>
       <p>{desc}</p>
       <p>{tags_html}</p>
+      <p>{links_html}</p>
     </td>""")
 
     # Group into 2 columns per row
