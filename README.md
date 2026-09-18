@@ -138,9 +138,6 @@ Desarrollador de software con **más de 2 años de experiencia** construyendo so
 <!-- RECENT_ACTIVITY:START -->
 - 🔀 PR #13 (merged) en [`titulacion-istpet`](https://github.com/JosephBano/titulacion-istpet): [Pull Request en titulacion-istpet](https://github.com/JosephBano/titulacion-istpet)
 - 🔀 PR #12 (closed) en [`titulacion-istpet`](https://github.com/JosephBano/titulacion-istpet): [Pull Request en titulacion-istpet](https://github.com/JosephBano/titulacion-istpet)
-- 🔀 PR #11 (merged) en [`titulacion-istpet`](https://github.com/JosephBano/titulacion-istpet): [Pull Request en titulacion-istpet](https://github.com/JosephBano/titulacion-istpet)
-- 🔀 PR #10 (opened) en [`titulacion-istpet`](https://github.com/JosephBano/titulacion-istpet): [Pull Request en titulacion-istpet](https://github.com/JosephBano/titulacion-istpet)
-- 🔀 PR #9 (opened) en [`titulacion-istpet`](https://github.com/JosephBano/titulacion-istpet): [Pull Request en titulacion-istpet](https://github.com/JosephBano/titulacion-istpet)
 <!-- RECENT_ACTIVITY:END -->
 
 ---
