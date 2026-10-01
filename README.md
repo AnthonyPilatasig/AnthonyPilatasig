@@ -136,8 +136,7 @@ Desarrollador de software con **más de 2 años de experiencia** construyendo so
 ### ⚡ Actividad Reciente
 
 <!-- RECENT_ACTIVITY:START -->
-- 🔀 PR #13 (merged) en [`titulacion-istpet`](https://github.com/JosephBano/titulacion-istpet): [Pull Request en titulacion-istpet](https://github.com/JosephBano/titulacion-istpet)
-- 🔀 PR #12 (closed) en [`titulacion-istpet`](https://github.com/JosephBano/titulacion-istpet): [Pull Request en titulacion-istpet](https://github.com/JosephBano/titulacion-istpet)
+_Actividad sincronizada automáticamente con GitHub Actions._
 <!-- RECENT_ACTIVITY:END -->
 
 ---
