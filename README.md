@@ -123,7 +123,7 @@ Desarrollador de software con **más de 2 años de experiencia** construyendo so
 <!-- RECENT_REPOS:START -->
 | Repositorio | Descripción | Stack | Stars | Actualizado |
 | :--- | :--- | :---: | :---: | :--- |
-| [**anthony-portfolio**](https://github.com/AnthonyPilatasig/anthony-portfolio) | — | <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" height="20"/> | ⭐ 0 | Hace 1 día |
+| [**anthony-portfolio**](https://github.com/AnthonyPilatasig/anthony-portfolio) | — | <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" height="20"/> | ⭐ 0 | Hace 2 días |
 | [**DebtManager**](https://github.com/AnthonyPilatasig/DebtManager) | — | <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" height="20"/> | ⭐ 0 | Hace 2 meses |
 | [**RPG_Journey**](https://github.com/AnthonyPilatasig/RPG_Journey) | — | <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" height="20"/> | ⭐ 0 | Hace 3 meses |
 | [**net8-education-microservices**](https://github.com/AnthonyPilatasig/net8-education-microservices) | Arquitectura de microservicios con .NET 8 para educación. Patrones avanzados: CQRS... | <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" height="20"/> | ⭐ 0 | Hace 4 meses |
@@ -136,12 +136,12 @@ Desarrollador de software con **más de 2 años de experiencia** construyendo so
 ### ⚡ Actividad Reciente
 
 <!-- RECENT_ACTIVITY:START -->
-- 🔀 PR #225 (merged) en [`istpetdev-platform`](https://github.com/bryancito1090/istpetdev-platform): [Pull Request en istpetdev-platform](https://github.com/bryancito1090/istpetdev-platform)
-- 🔀 PR #205 (merged) en [`istpetdev-platform`](https://github.com/bryancito1090/istpetdev-platform): [Pull Request en istpetdev-platform](https://github.com/bryancito1090/istpetdev-platform)
-- 🔀 PR #220 (merged) en [`istpetdev-platform`](https://github.com/bryancito1090/istpetdev-platform): [Pull Request en istpetdev-platform](https://github.com/bryancito1090/istpetdev-platform)
-- 🔀 PR #206 (merged) en [`istpetdev-platform`](https://github.com/bryancito1090/istpetdev-platform): [Pull Request en istpetdev-platform](https://github.com/bryancito1090/istpetdev-platform)
-- 🔀 PR #185 (merged) en [`istpetdev-platform`](https://github.com/bryancito1090/istpetdev-platform): [Pull Request en istpetdev-platform](https://github.com/bryancito1090/istpetdev-platform)
-- 🔀 PR #216 (merged) en [`istpetdev-platform`](https://github.com/bryancito1090/istpetdev-platform): [Pull Request en istpetdev-platform](https://github.com/bryancito1090/istpetdev-platform)
+- 🔀 PR #281 (opened) en [`istpetdev-platform`](https://github.com/bryancito1090/istpetdev-platform): [Pull Request en istpetdev-platform](https://github.com/bryancito1090/istpetdev-platform)
+- 🔀 PR #260 (merged) en [`istpetdev-platform`](https://github.com/bryancito1090/istpetdev-platform): [Pull Request en istpetdev-platform](https://github.com/bryancito1090/istpetdev-platform)
+- 🔀 PR #263 (merged) en [`istpetdev-platform`](https://github.com/bryancito1090/istpetdev-platform): [Pull Request en istpetdev-platform](https://github.com/bryancito1090/istpetdev-platform)
+- 🔀 PR #264 (merged) en [`istpetdev-platform`](https://github.com/bryancito1090/istpetdev-platform): [Pull Request en istpetdev-platform](https://github.com/bryancito1090/istpetdev-platform)
+- 🔀 PR #265 (merged) en [`istpetdev-platform`](https://github.com/bryancito1090/istpetdev-platform): [Pull Request en istpetdev-platform](https://github.com/bryancito1090/istpetdev-platform)
+- 🔀 PR #269 (merged) en [`istpetdev-platform`](https://github.com/bryancito1090/istpetdev-platform): [Pull Request en istpetdev-platform](https://github.com/bryancito1090/istpetdev-platform)
 <!-- RECENT_ACTIVITY:END -->
 
 ---
