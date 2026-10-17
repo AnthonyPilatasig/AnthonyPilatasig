@@ -136,9 +136,12 @@ Desarrollador de software con **más de 2 años de experiencia** construyendo so
 ### ⚡ Actividad Reciente
 
 <!-- RECENT_ACTIVITY:START -->
+- 🔀 PR #367 (merged) en [`istpetdev-platform`](https://github.com/bryancito1090/istpetdev-platform): [Pull Request en istpetdev-platform](https://github.com/bryancito1090/istpetdev-platform)
+- 🔀 PR #363 (merged) en [`istpetdev-platform`](https://github.com/bryancito1090/istpetdev-platform): [Pull Request en istpetdev-platform](https://github.com/bryancito1090/istpetdev-platform)
+- 🔀 PR #360 (merged) en [`istpetdev-platform`](https://github.com/bryancito1090/istpetdev-platform): [Pull Request en istpetdev-platform](https://github.com/bryancito1090/istpetdev-platform)
+- 🔀 PR #355 (merged) en [`istpetdev-platform`](https://github.com/bryancito1090/istpetdev-platform): [Pull Request en istpetdev-platform](https://github.com/bryancito1090/istpetdev-platform)
+- 🔀 PR #331 (merged) en [`istpetdev-platform`](https://github.com/bryancito1090/istpetdev-platform): [Pull Request en istpetdev-platform](https://github.com/bryancito1090/istpetdev-platform)
 - 🔀 PR #302 (merged) en [`istpetdev-platform`](https://github.com/bryancito1090/istpetdev-platform): [Pull Request en istpetdev-platform](https://github.com/bryancito1090/istpetdev-platform)
-- 🔀 PR #299 (merged) en [`istpetdev-platform`](https://github.com/bryancito1090/istpetdev-platform): [Pull Request en istpetdev-platform](https://github.com/bryancito1090/istpetdev-platform)
-- 🔀 PR #281 (merged) en [`istpetdev-platform`](https://github.com/bryancito1090/istpetdev-platform): [Pull Request en istpetdev-platform](https://github.com/bryancito1090/istpetdev-platform)
 <!-- RECENT_ACTIVITY:END -->
 
 ---
