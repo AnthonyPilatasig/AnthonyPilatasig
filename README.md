@@ -123,7 +123,7 @@ Desarrollador de software con **más de 2 años de experiencia** construyendo so
 <!-- RECENT_REPOS:START -->
 | Repositorio | Descripción | Stack | Stars | Actualizado |
 | :--- | :--- | :---: | :---: | :--- |
-| [**mentorias-programacion**](https://github.com/AnthonyPilatasig/mentorias-programacion) | Sitio web responsivo y accesible para mentorias de programacion en linea | <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" height="20"/> | ⭐ 0 | Hace 18 minutos |
+| [**mentorias-programacion**](https://github.com/AnthonyPilatasig/mentorias-programacion) | Sitio web responsivo y accesible para mentorias de programacion en linea | <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" height="20"/> | ⭐ 0 | Hace 5 horas |
 | [**anthony-portfolio**](https://github.com/AnthonyPilatasig/anthony-portfolio) | — | <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" height="20"/> | ⭐ 0 | Hace 3 días |
 | [**DebtManager**](https://github.com/AnthonyPilatasig/DebtManager) | — | <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" height="20"/> | ⭐ 0 | Hace 2 meses |
 | [**RPG_Journey**](https://github.com/AnthonyPilatasig/RPG_Journey) | — | <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" height="20"/> | ⭐ 0 | Hace 3 meses |
@@ -140,7 +140,6 @@ Desarrollador de software con **más de 2 años de experiencia** construyendo so
 - 🔀 PR #367 (merged) en [`istpetdev-platform`](https://github.com/bryancito1090/istpetdev-platform): [Pull Request en istpetdev-platform](https://github.com/bryancito1090/istpetdev-platform)
 - 🔀 PR #363 (merged) en [`istpetdev-platform`](https://github.com/bryancito1090/istpetdev-platform): [Pull Request en istpetdev-platform](https://github.com/bryancito1090/istpetdev-platform)
 - 🔀 PR #360 (merged) en [`istpetdev-platform`](https://github.com/bryancito1090/istpetdev-platform): [Pull Request en istpetdev-platform](https://github.com/bryancito1090/istpetdev-platform)
-- 🔀 PR #355 (merged) en [`istpetdev-platform`](https://github.com/bryancito1090/istpetdev-platform): [Pull Request en istpetdev-platform](https://github.com/bryancito1090/istpetdev-platform)
 <!-- RECENT_ACTIVITY:END -->
 
 ---
