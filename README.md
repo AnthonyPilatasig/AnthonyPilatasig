@@ -87,7 +87,7 @@ Desarrollador de software con **más de 2 años de experiencia** construyendo so
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://anthonypilatasig.github.io/anthony-portfolio/">🚀 Interactive Senior Portfolio & WASM Engine</a></h3>
+      <h3><a href="https://anthonypilatasig.github.io/anthony-portfolio/">🚀 Interactive Senior Portfolio & WASM Engine</a> ★ 1</h3>
       <p>Portafolio interactivo moderno con <b>React 19, TypeScript y Vite</b> integrado con motor WebAssembly aislado y optimización de memoria a 4GB.</p>
       <p>`React 19` `TypeScript` `TailwindCSS` `WebAssembly` `Live Demo`</p>
       <p><a href="https://anthonypilatasig.github.io/anthony-portfolio/">🌐 <b>Ver Deploy / Demo</b></a> &nbsp;|&nbsp; <a href="https://github.com/AnthonyPilatasig/anthony-portfolio">📁 <b>Código</b></a></p>
@@ -123,7 +123,7 @@ Desarrollador de software con **más de 2 años de experiencia** construyendo so
 <!-- RECENT_REPOS:START -->
 | Repositorio | Descripción | Stack | Stars | Actualizado |
 | :--- | :--- | :---: | :---: | :--- |
-| [**anthony-portfolio**](https://github.com/AnthonyPilatasig/anthony-portfolio) | — | <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" height="20"/> | ⭐ 0 | Hace 4 días |
+| [**anthony-portfolio**](https://github.com/AnthonyPilatasig/anthony-portfolio) | — | <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" height="20"/> | ⭐ 1 | Hace 4 días |
 | [**mentorias-programacion**](https://github.com/AnthonyPilatasig/mentorias-programacion) | Sitio web responsivo y accesible para mentorias de programacion en linea | <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" height="20"/> | ⭐ 0 | Hace 5 días |
 | [**DebtManager**](https://github.com/AnthonyPilatasig/DebtManager) | — | <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" height="20"/> | ⭐ 0 | Hace 2 meses |
 | [**RPG_Journey**](https://github.com/AnthonyPilatasig/RPG_Journey) | — | <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" height="20"/> | ⭐ 0 | Hace 4 meses |
