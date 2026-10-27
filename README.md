@@ -125,7 +125,7 @@ Desarrollador de software con **más de 2 años de experiencia** construyendo so
 | :--- | :--- | :---: | :---: | :--- |
 | [**anthony-portfolio**](https://github.com/AnthonyPilatasig/anthony-portfolio) | — | <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" height="20"/> | ⭐ 1 | Hace 7 días |
 | [**mentorias-programacion**](https://github.com/AnthonyPilatasig/mentorias-programacion) | Sitio web responsivo y accesible para mentorias de programacion en linea | <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" height="20"/> | ⭐ 0 | Hace 8 días |
-| [**DebtManager**](https://github.com/AnthonyPilatasig/DebtManager) | — | <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" height="20"/> | ⭐ 0 | Hace 2 meses |
+| [**DebtManager**](https://github.com/AnthonyPilatasig/DebtManager) | — | <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" height="20"/> | ⭐ 0 | Hace 3 meses |
 | [**RPG_Journey**](https://github.com/AnthonyPilatasig/RPG_Journey) | — | <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" height="20"/> | ⭐ 0 | Hace 4 meses |
 | [**net8-education-microservices**](https://github.com/AnthonyPilatasig/net8-education-microservices) | Arquitectura de microservicios con .NET 8 para educación. Patrones avanzados: CQRS... | <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" height="20"/> | ⭐ 0 | Hace 4 meses |
 | [**Sistema_Optimazacion_Inventario_Algoritmos-y-Estructura-de-Datos-**](https://github.com/AnthonyPilatasig/Sistema_Optimazacion_Inventario_Algoritmos-y-Estructura-de-Datos-) | Sistema de optimización de inventarios mediante programación dinámica. Implementa ... | <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" height="20"/> | ⭐ 0 | Hace 5 meses |
@@ -136,7 +136,7 @@ Desarrollador de software con **más de 2 años de experiencia** construyendo so
 ### ⚡ Actividad Reciente
 
 <!-- RECENT_ACTIVITY:START -->
-- 🔀 PR #96 (opened) en [`actualizacion_datos`](https://github.com/IstpetDev/actualizacion_datos): [Pull Request en actualizacion_datos](https://github.com/IstpetDev/actualizacion_datos)
+- 🔀 PR #96 (merged) en [`actualizacion_datos`](https://github.com/IstpetDev/actualizacion_datos): [Pull Request en actualizacion_datos](https://github.com/IstpetDev/actualizacion_datos)
 - 🔀 PR #95 (merged) en [`actualizacion_datos`](https://github.com/IstpetDev/actualizacion_datos): [Pull Request en actualizacion_datos](https://github.com/IstpetDev/actualizacion_datos)
 - 🔀 PR #71 (merged) en [`actualizacion_datos`](https://github.com/IstpetDev/actualizacion_datos): [Pull Request en actualizacion_datos](https://github.com/IstpetDev/actualizacion_datos)
 - 🔀 PR #47 (merged) en [`actualizacion_datos`](https://github.com/IstpetDev/actualizacion_datos): [Pull Request en actualizacion_datos](https://github.com/IstpetDev/actualizacion_datos)
