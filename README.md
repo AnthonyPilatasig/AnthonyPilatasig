@@ -124,7 +124,7 @@ Desarrollador de software con **más de 2 años de experiencia** construyendo so
 | Repositorio | Descripción | Stack | Stars | Actualizado |
 | :--- | :--- | :---: | :---: | :--- |
 | [**mentorias-programacion**](https://github.com/AnthonyPilatasig/mentorias-programacion) | Sitio web responsivo y accesible para mentorias de programacion en linea | <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" height="20"/> | ⭐ 0 | Hace 10 días |
-| [**anthony-portfolio**](https://github.com/AnthonyPilatasig/anthony-portfolio) | — | <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" height="20"/> | ⭐ 1 | Hace 22 días |
+| [**anthony-portfolio**](https://github.com/AnthonyPilatasig/anthony-portfolio) | — | <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" height="20"/> | ⭐ 1 | Hace 23 días |
 | [**DebtManager**](https://github.com/AnthonyPilatasig/DebtManager) | — | <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" height="20"/> | ⭐ 0 | Hace 3 meses |
 | [**RPG_Journey**](https://github.com/AnthonyPilatasig/RPG_Journey) | — | <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" height="20"/> | ⭐ 0 | Hace 4 meses |
 | [**net8-education-microservices**](https://github.com/AnthonyPilatasig/net8-education-microservices) | Arquitectura de microservicios con .NET 8 para educación. Patrones avanzados: CQRS... | <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" height="20"/> | ⭐ 0 | Hace 5 meses |
@@ -136,12 +136,12 @@ Desarrollador de software con **más de 2 años de experiencia** construyendo so
 ### ⚡ Actividad Reciente
 
 <!-- RECENT_ACTIVITY:START -->
+- 🔀 PR #212 (merged) en [`actualizacion_datos`](https://github.com/IstpetDev/actualizacion_datos): [Pull Request en actualizacion_datos](https://github.com/IstpetDev/actualizacion_datos)
+- 🔀 PR #206 (merged) en [`actualizacion_datos`](https://github.com/IstpetDev/actualizacion_datos): [Pull Request en actualizacion_datos](https://github.com/IstpetDev/actualizacion_datos)
+- 🔀 PR #205 (merged) en [`actualizacion_datos`](https://github.com/IstpetDev/actualizacion_datos): [Pull Request en actualizacion_datos](https://github.com/IstpetDev/actualizacion_datos)
+- 🔀 PR #204 (closed) en [`actualizacion_datos`](https://github.com/IstpetDev/actualizacion_datos): [Pull Request en actualizacion_datos](https://github.com/IstpetDev/actualizacion_datos)
 - 🔀 PR #203 (merged) en [`actualizacion_datos`](https://github.com/IstpetDev/actualizacion_datos): [Pull Request en actualizacion_datos](https://github.com/IstpetDev/actualizacion_datos)
 - 🔀 PR #202 (merged) en [`actualizacion_datos`](https://github.com/IstpetDev/actualizacion_datos): [Pull Request en actualizacion_datos](https://github.com/IstpetDev/actualizacion_datos)
-- 🔀 PR #201 (merged) en [`actualizacion_datos`](https://github.com/IstpetDev/actualizacion_datos): [Pull Request en actualizacion_datos](https://github.com/IstpetDev/actualizacion_datos)
-- 🔀 PR #200 (merged) en [`actualizacion_datos`](https://github.com/IstpetDev/actualizacion_datos): [Pull Request en actualizacion_datos](https://github.com/IstpetDev/actualizacion_datos)
-- 🔀 PR #199 (merged) en [`actualizacion_datos`](https://github.com/IstpetDev/actualizacion_datos): [Pull Request en actualizacion_datos](https://github.com/IstpetDev/actualizacion_datos)
-- 🔀 PR #198 (merged) en [`actualizacion_datos`](https://github.com/IstpetDev/actualizacion_datos): [Pull Request en actualizacion_datos](https://github.com/IstpetDev/actualizacion_datos)
 <!-- RECENT_ACTIVITY:END -->
 
 ---
